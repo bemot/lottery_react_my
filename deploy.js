@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'swarm smoke winner upgrade swift slot salad steel wagon horn stool nature',
+  
   'https://rinkeby.infura.io/orDImgKRzwNrVCDrAk5Q'
 );
 const web3 = new Web3(provider);
